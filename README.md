@@ -22,8 +22,13 @@ The goal was to design and code a **responsive product card layout** using **HTM
 ## 📂 Project Structure
 Product-card-CodeSentinel/
 │
-├── index.html # Main HTML
-├── style.css # Styles
-├── img/ # Images (perfume, amber, dawn, bliss)
-└── README.md # Project details
+├── index.html         # main HTML file
+├── style.css          # all CSS styling
+├── img/               # images for products
+│   ├── perfume.jpg
+│   ├── ambe.webp
+│   ├── dawn.jpg
+│   └── bliss.jpg
+└── README.md          # project description
+
 Open index.html in your browser.
